@@ -1,2 +1,2 @@
 # test
-test reposatry
+test repositry
